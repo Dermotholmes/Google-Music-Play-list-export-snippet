@@ -2,7 +2,13 @@
 
 ## Whats this?
 
-This is a snippet of code you run inside your web browser to create a list of the songs in your play list. 
+This is a little snippet of code you that will export a list of songs from a play list in Google Music Play.
+
+
+## Why would I want this?
+
+This snippet was designed to help move from Google Play Music to another music streaming service and bring my play lists with me.
+
 
 ## Code snippet
 
@@ -53,11 +59,9 @@ var interval = setInterval(function(){
 * Copy and paste the code snippet into the console area and press enter
 * Wait for the snippet to run through all songs in the list
 * When you see the console display the message "Play list copied to clipboard" the script has finished and the results have been copied to your computers clipboard
-* You can now open any program such as Word, Excel or a text editor and paste (ctrl + V) to pate this play list information
+* You can now open any program such as Word, Excel or a text editor and paste (ctrl + V) to paste this play list information
 
-## Why would I want this?
 
-This snippet was designed to help move from Google Play Music to another music streaming service. 
 
 ## Multiple play lists? 
 
